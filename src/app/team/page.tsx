@@ -1,7 +1,7 @@
-import Footer from '@/Components/Footer'
-import FreeTrail from '@/Components/Team/FreeTrail'
-import MeetOurTeam from '@/Components/Team/MeetOurTeam'
-import Teamgallery from '@/Components/Team/Teamgallery'
+import Footer from '@/components/Footer'
+import FreeTrail from '@/components/Team/FreeTrail'
+import MeetOurTeam from '@/components/Team/MeetOurTeam'
+import Teamgallery from '@/components/Team/Teamgallery'
 
 import React from 'react'
 

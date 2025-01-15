@@ -1,9 +1,9 @@
-import Facts from '@/Components/Pricing/Facts'
-import Footer from '@/Components/Footer'
+import Facts from '@/components/Pricing/Facts'
+import Footer from '@/components/Footer'
 
-import Reacticon from '@/Components/about/Reacticon '
+import Reacticon from '@/components/about/Reacticon '
 import React from 'react'
-import PricingSection from '@/Components/Pricing/Pricing'
+import PricingSection from '@/components/Pricing/Pricing'
 
 const page = () => {
   return (

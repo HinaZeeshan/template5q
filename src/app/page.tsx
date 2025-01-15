@@ -1,10 +1,10 @@
-import Bestselling from "@/Components/Home/Bestselling";
-import Classic from "@/Components/Home/Classic";
-import Footer from "@/Components/Footer";
-import Hero from "@/Components/Home/Hero";
-import Post from "@/Components/Home/Post";
-import Universe from "@/Components/Home/Universe";
-import Editor from "@/Components/Home/editor";
+import Bestselling from "@/components/Home/Bestselling";
+import Classic from "@/components/Home/Classic";
+import Footer from "@/components/Footer";
+import Hero from "@/components/Home/Hero";
+import Post from "@/components/Home/Post";
+import Universe from "@/components/Home/Universe";
+import Editor from "@/components/Home/editor";
 
 export default function Home() {
   return (

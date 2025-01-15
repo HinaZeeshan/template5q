@@ -1,7 +1,7 @@
-import Collection from'@/Components/Shop/Collection'
-import Footer from '@/Components/Footer'
-import Reacticon from '@/Components/about/Reacticon '
-import Shopping from '@/Components/Shop/Shopping'
+import Collection from'@/components/Shop/Collection'
+import Footer from '@/components/Footer'
+import Reacticon from '@/components/about/Reacticon '
+import Shopping from '@/components/Shop/Shopping'
 import React from 'react'
 
 const page  = () => {

@@ -1,10 +1,10 @@
 
-import Bestproduct from '@/Components/Pages/Bestproduct'
-import Footer from '@/Components/Footer'
-import Oneproduct from '@/Components/Pages/Oneproduct'
+import Bestproduct from '@/components/Pages/Bestproduct'
+import Footer from '@/components/Footer'
+import Oneproduct from '@/components/Pages/Oneproduct'
 
-import ProductDetails from '@/Components/Pages/Productdetail'
-import Reacticon from '@/Components/about/Reacticon '
+import ProductDetails from '@/components/Pages/Productdetail'
+import Reacticon from '@/components/about/Reacticon '
 import React from 'react'
 
 const page = () => {

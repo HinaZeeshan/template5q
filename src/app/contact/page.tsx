@@ -1,6 +1,6 @@
-import Contact from '@/Components/contact/Contact'
-import Visit from '@/Components/contact/Visit'
-import Footer from '@/Components/Footer'
+import Contact from '@/components/contact/Contact'
+import Visit from '@/components/contact/Visit'
+import Footer from '@/components/Footer'
 import React from 'react'
 
 const page = () => {
